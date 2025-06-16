@@ -1,0 +1,4 @@
+1、温湿度传感器1个：https://wiki.seeedstudio.com/Grove-TemperatureAndHumidity_Sensor/
+2、Wio终端1个：https://wiki.seeedstudio.com/Wio_Terminal_Intro/
+3、其他物料：双向段子连接线1条、USB电缆1条
+4、第三方工具：MQTTX、Arduino
