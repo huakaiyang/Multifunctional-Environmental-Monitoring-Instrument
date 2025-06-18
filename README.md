@@ -195,5 +195,5 @@ void loop() {
 // https://github.com/huakaiyang/Multifunctional-Environmental-Monitoring-Instrument
 ```
 
-> 提示：实际部署时需修改代码中的WiFi凭据和MQTT服务器地址，详细操作流程可参考《多功能环境监测仪用户手册》
+> 提示：实际部署时需修改代码中的WiFi凭据和MQTT服务器地址，详细操作流程可参考《多功能环境监测仪用户手册》：https://github.com/huakaiyang/Multifunctional-Environmental-Monitoring-Instrument/blob/main/User%20Manual%20for%20Multi-functional%20Environmental%20Monitoring%20Instrument
 ```
