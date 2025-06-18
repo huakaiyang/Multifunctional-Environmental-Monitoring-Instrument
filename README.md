@@ -3,7 +3,7 @@
 ## 产品介绍
 <img width="341" alt="image" src="https://github.com/user-attachments/assets/e3001b8d-2943-4a76-864a-d1cccd611ea1" />
 
-基于Wio Terminal的环境检测仪，集成温湿度/光照/噪声/加速度传感器，支持：
+基于Wio Terminal的环境监测仪，集成温湿度/光照/噪声/加速度传感器，支持：
 - 实时监控环境参数  
 - WiFi数据上传至MQTT服务器  
 - 本地显示屏多界面切换  
