@@ -3,7 +3,7 @@
 ## 产品介绍
 <img width="341" alt="image" src="https://github.com/user-attachments/assets/e3001b8d-2943-4a76-864a-d1cccd611ea1" />
 
-基于Wio终端的环境检测仪，集成温湿度/光照/噪声/加速度传感器，支持：
+基于Wio Terminal的环境检测仪，集成温湿度/光照/噪声/加速度传感器，支持：
 - 实时监控环境参数  
 - WiFi数据上传至MQTT服务器  
 - 本地显示屏多界面切换  
@@ -16,7 +16,7 @@
 <img width="361" alt="image" src="https://github.com/user-attachments/assets/65ab4fb9-e30c-4d11-b0b5-bbff783084d7" />
 
 - **核心硬件**  
-  - [Wio终端](https://wiki.seeedstudio.com/Wio_Terminal_Intro/)  
+  - [Wio Terminal](https://wiki.seeedstudio.com/Wio_Terminal_Intro/)  
   - [Grove温湿度传感器(DHT11)](https://wiki.seeedstudio.com/Grove-TemperatureAndHumidity_Sensor/)  
   - 双向端子连接线 + USB-C电缆  
 - **软件工具**  
@@ -26,7 +26,7 @@
 ---
 
 ## 产品规格
-### Wio终端
+### Wio Terminal
 | 类别        | 参数详情                                                                 |
 |-------------|--------------------------------------------------------------------------|
 | **核心配置** | ARM® Cortex®-M4 微控制器 (120MHz) + 192KB SRAM + 4MB 外部闪存           |
@@ -51,7 +51,7 @@
 
 ## 操作部署流程
 1. **硬件连接**  
-   - DHT11传感器 → Wio终端D0端口  
+   - DHT11传感器 → Wio Terminal D0端口  
    - USB-C电缆连接PC  
 
 2. **安装库文件**  
