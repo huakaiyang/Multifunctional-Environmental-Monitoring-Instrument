@@ -1,7 +1,7 @@
 # 多功能环境监测仪
 
 ## 产品介绍
-<img width="361" alt="image" src="https://github.com/user-attachments/assets/65ab4fb9-e30c-4d11-b0b5-bbff783084d7" />
+<img width="341" alt="image" src="https://github.com/user-attachments/assets/e3001b8d-2943-4a76-864a-d1cccd611ea1" />
 
 基于Wio终端的环境检测仪，集成温湿度/光照/噪声/加速度传感器，支持：
 - 实时监控环境参数  
@@ -13,7 +13,7 @@
 **应用场景**：温室大棚监测、粮仓监控、防盗预警、室内环境检测等
 
 ### 产品清单
-<img width="341" alt="image" src="https://github.com/user-attachments/assets/e3001b8d-2943-4a76-864a-d1cccd611ea1" />
+<img width="361" alt="image" src="https://github.com/user-attachments/assets/65ab4fb9-e30c-4d11-b0b5-bbff783084d7" />
 
 - **核心硬件**  
   - [Wio终端](https://wiki.seeedstudio.com/Wio_Terminal_Intro/)  
